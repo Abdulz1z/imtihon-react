@@ -1,0 +1,5 @@
+.header__input-search {
+  background-image: url(./../assets/images/searchIcon.svg);
+  background-repeat: no-repeat;
+  background-position: calc(100% - 20px) 50%;
+}/*# sourceMappingURL=Header.css.map */
